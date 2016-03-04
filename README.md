@@ -13,4 +13,3 @@ Obtain a key via the following [instructions](http://openweathermap.org/appid#us
 
 `MyOpenWeatherMapApiKey="<UNIQUE_API_KEY">`
 
-For help migrating an existing repo (fork or clone prior to 10/18/15), please check out this [guide.](https://docs.google.com/document/d/1e8LXahedBlCW1_dp_FyvQ3ugUAwUBJDuJCoKf3tgNVs/pub?embedded=true) 
